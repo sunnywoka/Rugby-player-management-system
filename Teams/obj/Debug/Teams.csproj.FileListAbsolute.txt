@@ -1,0 +1,12 @@
+C:\Users\悦恺\Downloads\158212\Assignment3\Assignment3\Teams\bin\Debug\Teams.dll
+C:\Users\悦恺\Downloads\158212\Assignment3\Assignment3\Teams\bin\Debug\Teams.pdb
+C:\Users\悦恺\Downloads\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.csprojAssemblyReference.cache
+C:\Users\悦恺\Downloads\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.csproj.CoreCompileInputs.cache
+C:\Users\悦恺\Downloads\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.dll
+C:\Users\悦恺\Downloads\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.pdb
+C:\course\158212\Assignment3\Assignment3\Teams\bin\Debug\Teams.dll
+C:\course\158212\Assignment3\Assignment3\Teams\bin\Debug\Teams.pdb
+C:\course\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.csproj.AssemblyReference.cache
+C:\course\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.csproj.CoreCompileInputs.cache
+C:\course\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.dll
+C:\course\158212\Assignment3\Assignment3\Teams\obj\Debug\Teams.pdb
